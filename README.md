@@ -16,6 +16,6 @@ for compile and run this project
 
 make && ./game
 
-if not working install make with "sudo apt install make"
+if not working install make with "sudo apt install make" or "sudo apt-get install libsfml-dev"
 
 ![image](https://user-images.githubusercontent.com/91668112/167927084-81344fb6-2867-4566-9772-6f8a23aed37b.png)
