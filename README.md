@@ -12,4 +12,4 @@ press R for restart the game and the score is on top left
 
 # just make
 
-![image](https://user-images.githubusercontent.com/91668112/167926584-7a225539-29a5-45ac-958c-0ca8ca78c03a.png)
+![image](https://user-images.githubusercontent.com/91668112/167927084-81344fb6-2867-4566-9772-6f8a23aed37b.png)
