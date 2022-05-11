@@ -12,4 +12,10 @@ press R for restart the game and the score is on top left
 
 # just make
 
+for compile and run this project
+
+make && ./game
+
+if not working install make with "sudo apt install make"
+
 ![image](https://user-images.githubusercontent.com/91668112/167927084-81344fb6-2867-4566-9772-6f8a23aed37b.png)
